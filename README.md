@@ -1,4 +1,4 @@
-<h2 style="color:purple">Bem-vindo(a), ao meu repositório do Github.<h2>
+<h2>Bem-vindo(a), ao meu repositório.<h2>
 
  ##
 
